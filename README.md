@@ -11,7 +11,7 @@ Most of my serious work lives in private repos: an AI agent framework and an alg
 
 ---
 
-Outside of code: I'm a trance DJ (ZenOne) and the author of [Euphoria Unleashed](https://euphoriaunleashed.com), a book on the history and science of trance music.
+Outside of code: I'm a techno / psytrance / trance DJ (ZenOne) and the author of [Euphoria Unleashed](https://euphoriaunleashed.com), a book on the history and science of trance music.
 
 **Languages:** Python, Shell
 **Links:** [zenone.org](https://zenone.org) · [Euphoria Unleashed](https://euphoriaunleashed.com)
